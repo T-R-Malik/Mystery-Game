@@ -8,6 +8,7 @@ Mystery Escape Game is a Java-based text adventure where players must solve ridd
 
 - Interactive UI
 - Multiple riddles
+- Player choice
 - Player input validation
 - Room animations
 - Modular object-oriented design

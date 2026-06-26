@@ -1,6 +1,6 @@
 # Mystery Escape Game
 
-![Main Menu](Images/Room-Screen.png)
+![Room Screen](Images/Room-Screen.png)
 
 ## Overview
 
@@ -10,16 +10,16 @@ Mystery Escape Game is a Java-based text adventure where players must solve ridd
 ## Features
 
 - Interactive UI
-- ![Main Menu](Images/Pause-Screen.png)
+- ![Pause Screen](Images/Pause-Screen.png)
 - Multiple riddles
-- ![Main Menu](Images/Riddle-Screen.png)
+- ![Riddle Screen](Images/Riddle-Screen.png)
 - Player choice
 - ![Main Menu](Images/Main-Menu.png)
 - Player input validation
 - Room animations
-- ![Main Menu](Images/Animation-Screen.png)
+- ![Animation](Images/Animation-Screen.png)
 - Modular object-oriented design
-- ![Main Menu](Images/Game-Over-Screen.png)
+- ![Game Over](Images/Game-Over-Screen.png)
 ## Technologies Used
 
 - Java

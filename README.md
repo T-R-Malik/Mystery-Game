@@ -1,8 +1,12 @@
 # Mystery Escape Game
 
+![Main Menu](Images/Room-Screen.png)
+
 ## Overview
 
 Mystery Escape Game is a Java-based text adventure where players must solve riddles to escape a locked room. The project was developed to strengthen object-oriented programming skills while creating an engaging puzzle-solving experience.
+
+![Main Menu](Images/Main-Menu.png)
 
 ## Features
 
